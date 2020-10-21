@@ -1,0 +1,55 @@
+body{
+    font-family: Verdana;
+    font-size: 13px;
+
+}
+.div1{
+    background-image: url("Imagenes/logo.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 180px;
+    background-color: #210439;
+    width: 1000px;
+    height: 120px;
+
+}
+
+h1{
+    text-indent: 500px;
+    color: white;
+    font-size: double;
+    padding: 10px;
+}
+
+h4{
+    text-indent: 540px;
+    color: white;   
+}
+
+#menu {
+    box-sizing: border-box;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    font-size: 1.3em;
+}
+
+#menu li {
+    float: left;
+    line-height: 30px;
+    background-color: #9376ac;
+}
+
+#menu li a {
+    display: block;
+    padding: 0 20px;
+    color: #e6dfed;
+    text-decoration: none;
+}
+
+#menu li a:hover {
+    background-color: #8049b1;
+    text-decoration: none;
+}
+
